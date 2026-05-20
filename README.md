@@ -277,14 +277,3 @@ H3K27me3 LS‑GKM Variant Prioritisation Pipeline
 
 ***
 
-# 🔥 Optional add-ons (if you want next)
-
-I can also generate:
-
-✅ `.gitignore`  
-✅ `requirements.txt`  
-✅ `environment.yml` (conda)  
-✅ full **Nextflow / Snakemake workflow**  
-✅ badges (build, DOI, etc.)
-
-Just tell me 👍
